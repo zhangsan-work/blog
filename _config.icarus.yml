@@ -109,7 +109,7 @@ navbar:
         归档: /archives
         分类: /categories
         标签: /tags
-        关于: /about
+        张三简介: /about
     # Links to be shown on the right of the navigation bar
     links:
         哔哩哔哩关注我:
