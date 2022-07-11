@@ -5,7 +5,7 @@ categories:
   - 摄像机
 tags: 摄像机
 cover: 'https://feirenx-1302537874.file.myqcloud.com/img/BL001-0C.jpeg'
-thumbnail: 'https://feirenx-1302537874.file.myqcloud.com/img/BL003_T.jpg'
+thumbnail: 'https://feirenx-1302537874.file.myqcloud.com/img/BL001_0T.jpeg'
 abbrlink: e76556a7
 
 ---
