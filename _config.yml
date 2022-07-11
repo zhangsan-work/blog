@@ -2,11 +2,11 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
-language: en
+author: 张三
+language: zh-CN
 timezone: ''
-url: 'http://example.com'
-permalink: ':year/:month/:day/:title/'
+url: https://zhangsan365.com
+permalink: :abbrlink/
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
@@ -60,5 +60,6 @@ include: null
 exclude: null
 ignore: null
 theme: icarus
+toc: true
 deploy:
   type: ''
