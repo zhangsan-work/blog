@@ -1,6 +1,6 @@
 ---
 
-title: Blender如何让HDRI参与正式渲染
+title: 如何解决Blender预览正常渲染无灯光照明
 categories:
   - blender
   - 渲染
@@ -20,11 +20,11 @@ abbrlink: 202207110940
 
 结果却发现正式渲染图灯光非常的暗、金属材质也缺少真实的反射，明明我的预览渲染图那么的好看，怎么办？
 
+<!-- more -->
+
 ![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL003-1.png)
 
 在线等~~~挺急的
-
-<!-- more -->
 
 {% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
 
