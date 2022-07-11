@@ -4,8 +4,8 @@ categories:
   - blender
   - 摄像机
 tags: 摄像机
-cover: 'https://pic.imgdb.cn/item/62c98799f54cd3f93717ec92.jpg'
-thumbnail: 'https://pic.imgdb.cn/item/62ca35edf54cd3f937b8a3db.jpg'
+cover: 'https://feirenx-1302537874.file.myqcloud.com/img/BL001-0C.jpeg'
+thumbnail: 'https://feirenx-1302537874.file.myqcloud.com/img/BL001_0T.jpeg'
 abbrlink: e76556a7
 ---
 
