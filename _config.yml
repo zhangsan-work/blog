@@ -107,10 +107,3 @@ toc: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: cos-cdn
-  cloud: tencent
-  bucket: zhangsan365-1304124768
-  region: ap-hongkong
-  secretId: AKIDUnqdARRBdqmRpxoOhjV1GEvLULwGJ5ao
-  secretKey: yg6HBn8D1YonFQJvINBizzi9JDqCH6ev
