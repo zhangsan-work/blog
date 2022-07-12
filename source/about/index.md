@@ -1,8 +1,8 @@
 ---
 title: 关于我
 date: 2022-07-11 17:35:50
-cover: 'https://feirenx-1302537874.file.myqcloud.com/img/BL002_C.jpg'
-thumbnail: 'https://feirenx-1302537874.file.myqcloud.com/img/BL002_0T.jpg'
+cover: 'https://pic.imgdb.cn/item/62cd73a7f54cd3f937bb454c.jpg'
+thumbnail: 'https://pic.imgdb.cn/item/62cd73b9f54cd3f937bb6253.jpg'
 abbrlink: 2040
 ---
 
