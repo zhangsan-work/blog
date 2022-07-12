@@ -5,8 +5,8 @@ categories:
   - blender
   - BL基础
 tags: BL基础
-cover: 'https://feirenx-1302537874.file.myqcloud.com/img/BL004_C.jpg'
-thumbnail: https://feirenx-1302537874.file.myqcloud.com/img/BL004_0T.jpg'
+cover: 'https://pic.imgdb.cn/item/62ccebbef54cd3f937e77c0f.jpg'
+thumbnail: https://pic.imgdb.cn/item/62ccebc8f54cd3f937e787e5.jpg'
 abbrlink: 202207121036
 ---
 
@@ -29,33 +29,33 @@ abbrlink: 202207121036
 
 场景中有2个一样大小的立方体
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-1.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62ccebb2f54cd3f937e76e24.png)
 
 前面这个长方体是缩放未使用应用缩放命令，后边的长方体是应用过缩放命令。两个立方体分别选择一个边倒角后，没有应用过变换命令的长方体倒角被拉伸；使用倒角生成器进行统一倒角后未使用应用缩放也产生了严重的倒角拉伸。
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-2.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceba5f54cd3f937e76080.png)
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-3.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceb99f54cd3f937e7510f.png)
 
 ### 编辑模式下内插面、法线挤出面、新建对象缩放的问题
 
 内插面因为在物体模式下缩放导致边距不均匀
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-4.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceb8df54cd3f937e74322.png)
 
 法线挤出面勾选均等偏移依然不均等问题
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-5.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceb7ef54cd3f937e73160.png)
 
 ### UV拉伸问题
 
 给立方体创建默认材质→赋予默认的棋盘格纹理，正常如下图
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-6.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceb73f54cd3f937e724e4.png)
 
 刚才创建正常的立方体进行Y轴放大2倍，观察棋盘格纹理发现已经被拉伸得严重
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-7.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceb4df54cd3f937e6f908.png)
 
 {% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
 
@@ -71,7 +71,7 @@ abbrlink: 202207121036
 
 UV拉伸得解决办法还要多一步操作，在纹理坐标中切换到物体模式
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-8.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceb3ff54cd3f937e6e8f2.png)
 
 ## **我认为的原理**
 
@@ -93,12 +93,12 @@ Blender中创建一个猴头，在大纲视图中可以看到有个猴头名字�
 
 对象我理解为是个合集，可以比如成一“盒子”，盒子里面装着灯光就是灯光对象，盒子里面装的是网格就是网格对象。
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-9.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceb32f54cd3f937e6da6b.png)
 
 ### 网格的概念
 
 Blender创建一个猴头可以在大纲视图中展开网格对象，看到一个绿色三角形标志写着猴头，这个就是网格。
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-10.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceb25f54cd3f937e6cc9c.png)
 
 网格是什么？
 
@@ -122,15 +122,15 @@ Blender创建一个猴头可以在大纲视图中展开网格对象，看到一�
 
 **我推测立方体的网格依然是X轴2米，Y轴2米，Z轴是2米，也就是所物体本身的数据并没有被改变，要改变物体本身的数据需要进入编辑模式改变**。
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-11.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62ccead0f54cd3f937e659c9.png)
 
 复制这个立方体到旁边（称为2号立方体），按Ctrl+A 应用缩放，在物体模式可以看到缩放的坐标是X1、Y1、Z1,此时2号立方体的大小是X轴2米，Y轴6米，Z轴2米
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-12.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceaecf54cd3f937e68259.png)
 
 接下来分别给两个立方体添加一个倒角生成器，倒角数值是0.1，可以看到1号立方体倒角出现了拉伸的问题，2号立方体倒角正常。
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL004-13.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cceafcf54cd3f937e69509.png)
 
 发生了什么？为什么都是一样大小的立方体进行一样的倒角，出现了截然不同的结果？
 
