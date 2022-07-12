@@ -11,7 +11,6 @@ abbrlink: e76556a7
 ---
 
 
-
 https://feirenx-1302537874.file.myqcloud.com/img/BL003_C.jpg
 
 {% raw %}<article class="message is-danger"><div class="message-body">{% endraw %}

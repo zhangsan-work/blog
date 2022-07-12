@@ -1,17 +1,16 @@
-# Blender应用变换的原理
+---
 title: Blender应用变换的原理
 categories:
-
   - blender
   - BL基础
 tags: BL基础
 cover: 'https://pic.imgdb.cn/item/62ccf0e5f54cd3f937edfafe.jpg'
-thumbnail: https://pic.imgdb.cn/item/62ccebc8f54cd3f937e787e5.jpg'
-abbrlink: 202207121036
+thumbnail: 'https://pic.imgdb.cn/item/62ccebc8f54cd3f937e787e5.jpg'
+abbrlink: 202207121236
+date: 2022-07-12 12:12:36 
 ---
-
 {% raw %}<article class="message is-danger"><div class="message-body">{% endraw %}
-## **你有没有遇到这样的问题？**
+## 你有没有遇到这样的问题？
 {% raw %}</div></article>{% endraw %}
 
 在学习blender的时候经常要使用应用位置、缩放、旋转命令，为什么隔壁火热的“西四帝”没有这个繁琐的操作，Blender却如此优秀，频繁锻炼你发财的小手？
