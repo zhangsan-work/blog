@@ -5,7 +5,7 @@ categories:
   - blender
   - BL基础
 tags: BL基础
-cover: 'https://pic.imgdb.cn/item/62cceee6f54cd3f937eb6dcc.jpg'
+cover: 'https://pic.imgdb.cn/item/62ccf0e5f54cd3f937edfafe.jpg'
 thumbnail: https://pic.imgdb.cn/item/62ccebc8f54cd3f937e787e5.jpg'
 abbrlink: 202207121036
 ---
