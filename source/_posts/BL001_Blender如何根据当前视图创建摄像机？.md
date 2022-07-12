@@ -4,8 +4,8 @@ categories:
   - blender
   - 摄像机
 tags: 摄像机
-cover: 'https://feirenx-1302537874.file.myqcloud.com/img/BL001-0C.jpeg'
-thumbnail: 'https://feirenx-1302537874.file.myqcloud.com/img/BL001_0T.jpeg'
+cover: 'https://pic.imgdb.cn/item/62c98799f54cd3f93717ec92.jpg'
+thumbnail: 'https://pic.imgdb.cn/item/62ca35edf54cd3f937b8a3db.jpg'
 abbrlink: e76556a7
 
 ---
@@ -36,15 +36,15 @@ https://feirenx-1302537874.file.myqcloud.com/img/BL003_C.jpg
 
 2.1 在Blender点击添加菜单→网格→猴头，创建一个可爱的猴头，按快捷键Shift+A可以弹出创建菜单。
 
-![图片点击可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL001_1.png)
+![图片点击可以放大](https://pic.imgdb.cn/item/62c97d82f54cd3f937060dd3.jpg)
 
 2.2 按快捷键【N】，在右侧弹出的视图菜单→视图锁定→勾选锁定摄像机到视图方位
 
-![图片点击可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL001_2.png)
+![图片点击可以放大](https://pic.imgdb.cn/item/62c97d59f54cd3f93705d22d.jpg)
 
 2.3 在视图菜单→对齐视图→活动摄像机对齐当前视角，快捷键是按【Ctlr+ALT+0】
 
-![图片点击可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL001_3.png)
+![图片点击可以放大](https://pic.imgdb.cn/item/62c97de6f54cd3f93706ab15.jpg)
 
 完结~撒花✿✿ヽ(°▽°)ノ✿，恭喜你又学会了一个小技巧。
 

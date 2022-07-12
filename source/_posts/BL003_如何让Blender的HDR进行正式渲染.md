@@ -5,8 +5,8 @@ categories:
   - blender
   - 渲染
 tags: Blender渲染
-cover: 'https://feirenx-1302537874.file.myqcloud.com/img/BL003_C.jpg'
-thumbnail: 'https://feirenx-1302537874.file.myqcloud.com/img/BL003_T.jpg'
+cover: 'https://pic.imgdb.cn/item/62ccecddf54cd3f937e8d612.jpg'
+thumbnail: 'https://pic.imgdb.cn/item/62cceceaf54cd3f937e8e411.jpg'
 abbrlink: 202207110940
 ---
 
@@ -22,7 +22,7 @@ abbrlink: 202207110940
 
 <!-- more -->
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL003-1.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62ccecf6f54cd3f937e8f525.png)
 
 在线等~~~挺急的
 
@@ -46,11 +46,11 @@ Blender可能出于方便用户调试材质和预览渲染的原因，提供了8
 
 Windows系统的HDRI路径默认在C:\Program Files\Blender Foundation\Blender 3.1\3.1\datafiles\studiolights\world文件夹中
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL003-2.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cced06f54cd3f937e906d5.png)
 
 Mac系的HDRI路径默认在/Applications/Blender3.2.app/Contents/Resources/3.2/datafiles/studiolights/world 文件夹中
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL003-3.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cced13f54cd3f937e9176c.png)
 
 把这几个文件复制到你喜欢保存的文件夹中
 
@@ -58,7 +58,7 @@ Mac系的HDRI路径默认在/Applications/Blender3.2.app/Contents/Resources/3.2/
 
 在菜单栏顶部切换到Shading工作区→切换着色器数据类型为世界环境→添加→纹理→环境纹理→在节点编辑器中打开之前导入的Blender默认HDRI文件,把节点连接上去，现在正式渲染和预览渲染的照明反射就相同，就大功告成。
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL003-4.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cced22f54cd3f937e92e96.png)
 
 恭喜你，又学会了一个小技巧，赶紧给你的小伙伴分享一下吧。
 
@@ -66,7 +66,7 @@ Mac系的HDRI路径默认在/Applications/Blender3.2.app/Contents/Resources/3.2/
 
 Blender视图着色方式中场景灯光和场景世界是什么意思？
 
-![点击图片可以放大](https://feirenx-1302537874.file.myqcloud.com/img/BL003-5.png)
+![点击图片可以放大](https://pic.imgdb.cn/item/62cced2ef54cd3f937e93e6c.png)
 
 **场景灯光**
 
