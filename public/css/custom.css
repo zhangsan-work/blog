@@ -1,0 +1,12 @@
+@media screen and (min-width: 1700px) {
+  .container {
+    max-width: 1600px;
+    width: 1600px;
+  }
+  .container .column.is-3-widescreen {
+    width: 22%;
+  }
+  .container .column.is-6-widescreen {
+    width: 56%;
+  }
+}

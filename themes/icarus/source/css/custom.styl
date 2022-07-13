@@ -1,20 +1,19 @@
-@media screen and (min-width: 1600px), print {
-    .column.is-4, .column.is-4-tablet, .is-4-desktop, .is-4-widescreen {
-        width: 25%    
-        max-width: 25rem;
-    }
+screen-tablet = 769px
+screen-desktop = 1088px
+screen-widescreen = 1280px
+screen-fullhd = 1472px
+screen-onek = 1700px
+primary-color = #fafafa
+primary-color-hover = #71a1e0
+primary-color-active = #4382d6
+primary-color-light = rgba(93, 147, 219, 0.8)
+link-color = rgb(68,155,255)
 
-    .column.is-8, .column.is-8-tablet, .is-8-desktop, .is-8-widescreen {
-        width: 75%;
-    }
-}
-
-// 左侧栏重新设置一下大小
-.article {
-    margin-right: 16px;
-    margin-left: 16px;
-    .content a img {
-        margin: auto;
-        display: block;
-    }
-}
+@media screen and (min-width: screen-onek)
+    .container
+        max-width: 1600px
+        width: 1600px
+        .column.is-3-widescreen
+            width: 22%
+        .column.is-6-widescreen
+            width: 56%
