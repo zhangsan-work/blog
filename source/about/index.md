@@ -47,10 +47,10 @@ widgets:
         position: left
         type: categories
     -
-        position: left
+        position: right
         type: recent_posts
     -
-        position: left
+        position: right
         type: archives
     -
         position: left
