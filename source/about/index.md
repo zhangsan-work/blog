@@ -4,6 +4,57 @@ date: 2022-07-11 17:35:50
 cover: 'https://pic.imgdb.cn/item/62cd73a7f54cd3f937bb454c.jpg'
 thumbnail: 'https://pic.imgdb.cn/item/62cd73b9f54cd3f937bb6253.jpg'
 abbrlink: 2040
+widgets:
+    -
+        position: left
+        type: profile
+        author: 张三
+        author_title: 这是一个关于C4D和Blender的故事
+        location: 
+        avatar: 
+        avatar_rounded: false
+        gravatar: 
+        follow_link: https://www.bilibili.com/
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: https://github.com/ppoffice
+            Facebook:
+                icon: fab fa-facebook
+                url: https://facebook.com
+            Twitter:
+                icon: fab fa-twitter
+                url: https://twitter.com
+            Dribbble:
+                icon: fab fa-dribbble
+                url: https://dribbble.com
+            RSS:
+                icon: fas fa-rss
+                url: /
+    -
+        position: left
+        type: toc
+        index: true
+        collapsed: true
+        depth: 3
+    -
+        position: left
+        type: links
+        links:
+            站酷: https://www.zcool.com.cn/
+            哔哩哔哩: https://www.bilibili.com/
+    -
+        position: left
+        type: categories
+    -
+        position: left
+        type: recent_posts
+    -
+        position: left
+        type: archives
+    -
+        position: left
+        type: tags
 ---
 
 ### **我是谁？**
@@ -19,7 +70,9 @@ abbrlink: 2040
 
 庸庸碌碌过了好些年，C4D麻溜的安装卸载到Blender熟练的创建删除立方体
 
-就在1分钟前，我问了自己一个问题，上一次觉得自己很有成就是什么时候？
+就在1分钟前，我问了自己一个问题
+
+上一次觉得自己很有成就是什么时候？
 
 想了很久我依然回答不出来，这一瞬间无法形容的难受在身体里横冲直撞。
 
