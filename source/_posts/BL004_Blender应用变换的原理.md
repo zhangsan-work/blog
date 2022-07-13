@@ -13,12 +13,6 @@ date: 2022-07-12 12:12:36
 ## 你有没有遇到这样的问题？
 {% raw %}</div></article>{% endraw %}
 
-<article class="message message-immersive is-primary">
-<div class="message-body">
-<i class="fas fa-globe-asia mr-2"></i>你有没有遇到这样的问题？
-</div>
-</article>
-
 在学习blender的时候经常要使用应用位置、缩放、旋转命令，为什么隔壁火热的“西四帝”没有这个繁琐的操作，Blender却如此优秀，频繁锻炼你发财的小手？
 
 先来看看不应用位置、缩放、旋转命令会产生最常见什么问题？
